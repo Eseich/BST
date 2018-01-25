@@ -35,6 +35,7 @@ void cNode::Print()
 {
 	std::cout << m_nData << std::endl;
 
+	//abd
 	//if (m_pLarge)
 	//{
 	//	m_pLarge->Print();
